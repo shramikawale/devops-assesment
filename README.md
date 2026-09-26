@@ -1,4 +1,4 @@
-# TechKraft DevOps Assessment Submission
+# Opensource DevOps Assessment Submission
 
 ## Candidate Information
 
@@ -110,7 +110,7 @@ Features:
 
 ## Part 5 – Network Architecture Design (`part5-network/architecture.md`)
 
-This section contains the DNS architecture design for TechKraft using AWS Route 53.
+This section contains the DNS architecture design for Opensource using AWS Route 53.
 
 Topics covered:
 
@@ -208,7 +208,7 @@ Features:
 
 ## Leadership & Mentorship Approach
 
-As TechKraft has a team of 11 engineers, my focus would be:
+As Company has a team of 11 engineers, my focus would be:
 
 - Terraform module standardization  
 - GitOps adoption  
@@ -225,4 +225,4 @@ This approach improves delivery speed, system reliability, and operational matur
 
 # Notes
 
-This repository contains my solutions for the TechKraft DevOps assessment. I focused on providing production-oriented answers with emphasis on **security, reliability, automation, and operational readiness**.
+This repository contains my solutions for the Opensource DevOps assessment. I focused on providing production-oriented answers with emphasis on **security, reliability, automation, and operational readiness**.
